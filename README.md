@@ -1,1 +1,3 @@
 # MCBooster
+
+> Boost Minecraft!

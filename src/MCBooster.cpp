@@ -31,4 +31,10 @@ MCBooster::~MCBooster()
         then.this.kill(EntityCow);
     if config.killcow = false;
         then.this.ignore(EntityCow);
+
+//Kill Chickens
+    if config.killchicken = true;
+        then.this.kill(EntityChicken);
+    if config.killchicken = false;
+        then.this.ignore(EntityChicken);
 }
